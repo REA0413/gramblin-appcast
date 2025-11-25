@@ -3,7 +3,7 @@
     <channel>
         <title>Gramblin - Appcast</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>
                     This update contains
                         - Player's tutorial/walkthrough.
@@ -13,7 +13,7 @@
                         - Other bugfixes and improvements.
             </description>
             <pubDate>Sun, 24 Nov 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.qubique.gramblin" sparkle:version="1.0.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.qubique.gramblin" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
